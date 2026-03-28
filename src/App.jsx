@@ -6,11 +6,12 @@ function App() {
       <header className="App-header">
         <img src="KU_SubLogo.png" className="App-logo" alt="logo" />
         <p>
-          CI/CE Pipeline for React Web app 
+          CI/CD Pipeline for React Web app 
         </p>
         <p className="small">
           Written by Mr.Chayanan Suporn
         </p>
+        <h1>Update by Mr.Chayanan Suporn</h1>
         <p>
           <a
             className="App-link"
