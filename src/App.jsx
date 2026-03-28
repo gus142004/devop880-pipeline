@@ -11,7 +11,8 @@ function App() {
         <p className="small">
           Written by Mr.Chayanan Suporn
         </p>
-        <h1>Update by Mr.Chayanan Suporn</h1>
+        <img src="วิวสวยๆ.jpg" style={{ width: '350px' }} />
+        <h1>Update by Mr.Chayanan Suphon</h1>
         <p>
           <a
             className="App-link"
